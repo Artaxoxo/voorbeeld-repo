@@ -1,0 +1,7 @@
+f = open("data.txt")
+text = f.read()
+print(text)
+print(type(text))
+text = text.split()
+print(text)
+print(type(text))
