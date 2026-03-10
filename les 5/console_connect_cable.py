@@ -11,6 +11,7 @@ device_object= ConnectHandler(device_type=platform, serial_settings= {
 print(device_object.send_command("show version"))
 
 print(Connection.check_enable_mode())
+print("dit is leuk")
 
 print(connection.send_command("show version", use_textfsm = True))
 
