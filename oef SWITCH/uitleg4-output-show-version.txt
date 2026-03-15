@@ -1,0 +1,8 @@
+
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 12.2(40)SE, RELEASE SOFTWARE (fc3)
+Copyright (c) 1986-2007 by Cisco Systems, Inc.
+Compiled Fri 24-Aug-07 01:55 by myl
+Image text-base: 0x00003000, data-base: 0x00FC0000
+
+ROM: Bootstrap program is C2960 boot loader
+BOOTLDR: C2960 Boot Loader (C2960-HBOOT-M) Version 12.2(25r)SEE1, RELEASE SOFTWARE (fc1)
